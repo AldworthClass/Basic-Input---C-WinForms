@@ -129,7 +129,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(585, 223);
+            this.ClientSize = new System.Drawing.Size(585, 227);
             this.Controls.Add(this.lblMessage);
             this.Controls.Add(this.btnSubmit);
             this.Controls.Add(this.txtHeight);
