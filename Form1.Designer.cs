@@ -93,9 +93,9 @@
             this.lblHeight.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHeight.Location = new System.Drawing.Point(13, 98);
             this.lblHeight.Name = "lblHeight";
-            this.lblHeight.Size = new System.Drawing.Size(406, 20);
+            this.lblHeight.Size = new System.Drawing.Size(404, 20);
             this.lblHeight.TabIndex = 5;
-            this.lblHeight.Text = "Please Enter your height in metres to two decimal places";
+            this.lblHeight.Text = "Please enter your height in metres to two decimal places";
             // 
             // txtHeight
             // 
